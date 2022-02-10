@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Asmit</h1>
-<h3 align="center">I'm an avid MachineLearning/DeepLearning and Blockchain Learner.Everyday is a learning day for me.</h3>
+<h3 align="center">I'm an avid Data Scientist and Blockchain Developer.Everyday is a learning day for me.</h3>
 
 - 🌱 I’m currently learning **Smart Contracts development.**
 
 - 📫 How to reach me **asmitadhikari540@gmail.com**
 
-- ⚡ Fun fact **If I don't know about it, I don't know it today.But I bet I'll find that answer.**
+- ⚡ Fun fact **If I don't know about something, I don't know it today.But I'll learn it and implement in my code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
