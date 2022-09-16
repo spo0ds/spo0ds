@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Smart Contracts development.**
 
-- 📫 How to reach me **asmitadhikari540@gmail.com**
+- 📫 How to reach me **spoodsoxyreium540@proton.me**
 
 - ⚡ Fun fact **If I don't know about something, I don't know it today.But I'll learn it and implement in my code.**
 
